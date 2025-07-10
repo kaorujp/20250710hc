@@ -1,0 +1,25 @@
+@charset "utf-8";
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    font-size: 16px;
+}
+
+p{
+    margin: 3em 0;
+}
+
+.lh_normal{
+    line-height: normal;
+}
+
+.lh_150 {
+    line-height: 1.5;
+}
+
+.lh_250{
+    line-height: 2.5;
+}

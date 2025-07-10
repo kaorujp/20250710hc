@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+h1 {
+    font-weight: normal;
+}
+
+p span {
+    font-weight: bold;
+}
+
+strong {
+    font-weight: 700;
+}
